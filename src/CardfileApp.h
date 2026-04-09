@@ -1,0 +1,1 @@
+#ifndef CARDFILEAPP_H\n#define CARDFILEAPP_H\n\nclass CardfileApp {\npublic:\n    CardfileApp();\n    ~CardfileApp();\n    void run();\n};\n\n#endif // CARDFILEAPP_H
